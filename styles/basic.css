@@ -2,6 +2,7 @@
     box-sizing: border-box;
 
 }
+
 body {
     margin: 0;
     font-family: "Roboto", sans-serif;
@@ -20,7 +21,7 @@ a {
     color: unset;
 }
 
-h1, p{
+h1, p ,h2{
     margin: 0;
 }
 
